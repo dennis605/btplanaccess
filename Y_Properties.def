@@ -25,6 +25,58 @@
     <ProjVer name="ProjVer" type="3" value="142" sort="1"/>
     <PublishUrl name="PublishUrl" type="10" value="https://d.docs.live.net/eaa1f02324a49db9/Dokumente/BTPlan/BTPlan_Multi_field.accdb" sort="1"/>
     <QueryTimeout name="QueryTimeout" type="3" value="60" sort="1"/>
-    <CheckTruncatedNumFields name="CheckTruncatedNumFields" type="4" value="1" sort="1"/>
+    <ShowNavigationPaneSearchBar name="Show Navigation Pane Search Bar" type="4" value="1" sort="1"/>
+    <ShowValuesinIndexed name="Show Values in Indexed" type="4" value="1" sort="1"/>
+    <ShowValuesinNonIndexed name="Show Values in Non-Indexed" type="4" value="1" sort="1"/>
+    <ShowValuesinRemote name="Show Values in Remote" type="4" value="0" sort="1"/>
+    <ShowValuesLimit name="Show Values Limit" type="4" value="1000" sort="1"/>
+    <ShowDocumentTabs name="ShowDocumentTabs" type="1" value="True" sort="1"/>
+    <StartUpShowDBWindow name="StartUpShowDBWindow" type="1" value="True" sort="1"/>
+    <StartUpShowStatusBar name="StartUpShowStatusBar" type="1" value="True" sort="1"/>
+    <ThemeResourceName name="Theme Resource Name" type="10" value="Office" sort="1"/>
+    <ThemedFormControls name="Themed Form Controls" type="4" value="1" sort="1"/>
+    <TrackNameAutoCorrectInfo name="Track Name AutoCorrect Info" type="10" value="-1" sort="1"/>
+    <UseBigIntforlinkingandimportingdata name="Use BigInt for linking and importing data" type="4" value="0" sort="1"/>
+    <UseDateTime2forlinkingandimportingdata name="Use DateTime2 for linking and importing data" type="4" value="0" sort="1"/>
+    <UseMicrosoftAccess2007compatiblecache name="Use Microsoft Access 2007 compatible cache" type="4" value="0" sort="1"/>
+    <UseAppIconForFrmRpt name="UseAppIconForFrmRpt" type="1" value="False" sort="1"/>
+    <UseMDIMode name="UseMDIMode" type="2" value="0" sort="1"/>
+    <WebDesignMode name="WebDesignMode" type="2" value="0" sort="1"/>
   </CurrentDb>
+  <CurrentProject context="1">
+    <VCSSourcePath name="VCS Source Path" type="0" value="\\Mac\Home\Documents\Source" sort="2"/>
+  </CurrentProject>
+  <SummaryInfo context="2">
+    <Author name="Author" type="10" value="Dennis Schönig" sort="3"/>
+    <Title name="Title" type="10" value="BTPlan" sort="3"/>
+  </SummaryInfo>
+  <ActiveVBProject context="4">
+    <Name name="Name" type="10" value="BTPlan" sort="5"/>
+  </ActiveVBProject>
+  <References context="6">
+    <Reference>
+      <Name value="ADODB 2.7"/>
+      <FullPath value="%CommonProgramFiles%\SYSTEM\ado\msado27.tlb"/>
+      <Position value="5"/>
+      <GUID value="{EF53050B-882E-4776-B643-EDA472E8E3F2}"/>
+      <Major value="2"/>
+      <Minor value="7"/>
+    </Reference>
+    <Reference>
+      <Name value="DAO 12.0"/>
+      <FullPath value="%CommonProgramFiles%\Microsoft Shared\OFFICE16\ACEDAO.DLL"/>
+      <Position value="4"/>
+      <GUID value="{4AC9E1DA-5BAD-4AC7-86E3-24F4CDCECA28}"/>
+      <Major value="12"/>
+      <Minor value="0"/>
+    </Reference>
+    <Reference>
+      <Name value="stdole 2.0"/>
+      <FullPath value="C:\Windows\SysArm32\stdole2.tlb"/>
+      <Position value="3"/>
+      <GUID value="{00020430-0000-0000-C000-000000000046}"/>
+      <Major value="2"/>
+      <Minor value="0"/>
+    </Reference>
+  </References>
 </Properties>
