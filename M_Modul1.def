@@ -4,6 +4,7 @@ Option Explicit
 
 Global PersonalisNew As String
 Global BewohnerisNew As String
+'test
 
 Public Function CheckEntry(strValue As String) As Boolean
 
