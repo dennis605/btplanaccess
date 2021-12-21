@@ -1,0 +1,11 @@
+<?xml version="1.0" standalone="yes"?>
+<Relation>
+  <Name value="VeranstaltungTagesplan"/>
+  <Table value="Veranstaltung"/>
+  <ForeignTable value="Tagesplan"/>
+  <Attributes value="2"/>
+  <PartialReplica value="false"/>
+  <Fields>
+    <Field_0 name="IDVeranstaltung" foreignname="VeranstaltungTagesplan.Value"/>
+  </Fields>
+</Relation>

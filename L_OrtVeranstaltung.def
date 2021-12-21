@@ -1,0 +1,11 @@
+<?xml version="1.0" standalone="yes"?>
+<Relation>
+  <Name value="OrtVeranstaltung"/>
+  <Table value="Ort"/>
+  <ForeignTable value="Veranstaltung"/>
+  <Attributes value="0"/>
+  <PartialReplica value="false"/>
+  <Fields>
+    <Field_0 name="IDOrt" foreignname="linkOrtVeranstaltung"/>
+  </Fields>
+</Relation>
